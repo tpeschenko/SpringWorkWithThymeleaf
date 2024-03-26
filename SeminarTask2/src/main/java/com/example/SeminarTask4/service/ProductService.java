@@ -1,6 +1,6 @@
-package com.example.SeminarTask2.service;
+package com.example.SeminarTask4.service;
 
-import com.example.SeminarTask2.model.Product;
+import com.example.SeminarTask4.model.Product;
 import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;

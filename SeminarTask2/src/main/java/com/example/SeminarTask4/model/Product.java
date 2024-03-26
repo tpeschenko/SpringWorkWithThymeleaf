@@ -1,7 +1,6 @@
-package com.example.SeminarTask2.model;
+package com.example.SeminarTask4.model;
 
 import lombok.Data;
-import org.springframework.stereotype.Component;
 
 @Data
 

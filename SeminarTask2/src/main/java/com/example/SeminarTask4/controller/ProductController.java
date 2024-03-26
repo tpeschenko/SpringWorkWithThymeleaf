@@ -1,8 +1,8 @@
-package com.example.SeminarTask2.controller;
+package com.example.SeminarTask4.controller;
 
 
-import com.example.SeminarTask2.model.Product;
-import com.example.SeminarTask2.service.ProductService;
+import com.example.SeminarTask4.model.Product;
+import com.example.SeminarTask4.service.ProductService;
 
 
 import org.springframework.stereotype.Controller;
